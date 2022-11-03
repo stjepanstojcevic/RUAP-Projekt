@@ -6,6 +6,6 @@ namespace KonzolnaAplikacijaStjepan
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Stjepana Stojcevica");
+            Console.WriteLine("Pozdrav iz aplikacije od Stjepana Stojcevica, broj indeksa:123");
         }
     }
